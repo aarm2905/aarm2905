@@ -5,11 +5,11 @@ Soy un Analista de Datos y Analista de BI apasionado por transformar datos en in
 ## Habilidades y Tecnologías
 
 - **Lenguajes de Programación**: Python, R, SQL
-- **Herramientas de BI**: Power BI, Tableau
+- **Herramientas de BI**: Power BI
 - **Análisis de Datos**: Pandas, NumPy, Scikit-Learn
 - **Visualización de Datos**: Matplotlib, Seaborn, Plotly
-- **Bases de Datos**: MySQL, PostgreSQL, SQL Server
-- **Herramientas de Big Data**: Apache Hadoop, Spark
+- **Bases de Datos**: SQL Server, MySQL y PostgreSQL
+- **Herramientas de Big Data**: Spark
 - **Otros**: Excel avanzado, Google Analytics, Git
 
 ## Proyectos Destacados
