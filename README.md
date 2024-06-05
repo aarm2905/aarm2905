@@ -14,7 +14,7 @@ Soy un Analista de Datos y Analista de BI apasionado por transformar datos en in
 
 ## Proyectos Destacados
 
-### [Proyecto 1: Análisis de Desempeño del Estudiante]([https://github.com/tu-usuario/proyecto-1](https://github.com/aarm2905/Portafolio-Power-BI/tree/d91358b71d23f3983c8a80a7c2f21701d3c3a0df/Analisis%20de%20desempe%C3%B1o%20academico))
+### [Proyecto 1: Análisis de Desempeño del Estudiante](https://github.com/aarm2905/Portafolio-Power-BI/tree/d91358b71d23f3983c8a80a7c2f21701d3c3a0df/Analisis%20de%20desempe%C3%B1o%20academico)
 Descripción: Utilicé técnicas de análisis de datos para evaluar el desempeño de los estudiantes en una universidad. Este proyecto incluyó la recopilación, limpieza y análisis de datos académicos para identificar patrones y tendencias en el rendimiento estudiantil.
 
 Tecnologías Utilizadas: Python (Pandas, NumPy, Matplotlib), Power BI, Excel.
