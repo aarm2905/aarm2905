@@ -19,13 +19,24 @@ Descripción: Utilicé técnicas de análisis de datos para evaluar el desempeñ
 
 Tecnologías Utilizadas: Python (Pandas, NumPy, Matplotlib), Power BI, Excel.
 
-Enlace al Repositorio: Análisis de Desempeño del Estudiante
+### [Proyecto 2: Análisis de Cobro y Ventas](https://github.com/aarm2905/Portafolio-Power-BI/tree/d91358b71d23f3983c8a80a7c2f21701d3c3a0df/Analisis%20de%20Cobro%20y%20Ventas)
+Descripción: Desarrollé un análisis detallado de los procesos de cobro y ventas de una empresa, utilizando herramientas de inteligencia empresarial y técnicas de análisis de datos. Este proyecto proporcionó insights valiosos para optimizar los procesos de ventas, mejorar la gestión de inventario y aumentar la eficiencia operativa.
 
-### [Proyecto 2: Dashboard de BI para Recursos Humanos](https://github.com/tu-usuario/proyecto-2)
-Desarrollé un dashboard interactivo en Tableau para el departamento de Recursos Humanos, facilitando la visualización de métricas clave como rotación de empleados, tasa de contratación y análisis de desempeño.
+Tecnologías Utilizadas: Power BI, SQL, Excel avanzado.
 
-### [Proyecto 3: Predicción de Churn de Clientes](https://github.com/tu-usuario/proyecto-3)
-Implementé un modelo de machine learning en Python para predecir el churn de clientes, utilizando técnicas de clasificación y regresión para mejorar la retención de clientes.
+
+### [Proyecto 3: Análisis de Call Center](https://github.com/aarm2905/Portafolio-Power-BI/tree/d91358b71d23f3983c8a80a7c2f21701d3c3a0df/Analisis%20de%20Call%20Center)
+Descripción: Realicé un análisis exhaustivo de las métricas clave de un call center, incluyendo tiempos de espera, tasas de abandono de llamadas y satisfacción del cliente. Utilicé técnicas de visualización de datos para presentar los resultados de manera clara y concisa, proporcionando recomendaciones para mejorar la eficiencia y la calidad del servicio.
+
+Tecnologías Utilizadas: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebooks.
+
+## Contacto y Conexiones
+
+- [LinkedIn](https://www.linkedin.com/in/aarm2905/)
+- [Email](mailto:aarm2905@gmail.com)
+
+¡No dudes en contactarme para discutir proyectos, colaboraciones o simplemente para conectar!
+
 <!--
 **aarm2905/aarm2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
